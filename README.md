@@ -3,10 +3,9 @@
 This project evaluates Speech-to-Text (STT) translation performance using Qwen-Omni-Flash model.
 
 ## Installation
-···
-bash
+```bash
 pip install numpy soundfile openai
-···
+```
 
 ## API Documentation
 For API usage specifications, please refer to: [API Documentation](https://bailian.console.aliyun.com/?tab=api#/api/?type=model&url=2803795)
