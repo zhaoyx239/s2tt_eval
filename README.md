@@ -4,6 +4,7 @@ This project evaluates Speech-to-Text (STT) translation performance using Qwen-O
 
 ## Installation
 """
+bash
 pip install numpy soundfile openai
 """
 
